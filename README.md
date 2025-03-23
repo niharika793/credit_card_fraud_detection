@@ -9,4 +9,4 @@ This is a ML project I have completed as the assessment.I have used random fores
 2.Run the script: `python main.py`
 
 ## Model Performance
-Achieved **95% accuracy** with optimized Random Forest
+Achieved **99% accuracy** with optimized Random Forest
